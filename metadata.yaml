@@ -1,0 +1,38 @@
+_repo: Captain-Cook-s-Journal-During-His-First-Voyage-Round-the-World--13-Made-in-H.-M.-Bark--Endeavo__8106
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cook, James
+    birthdate: 1728
+    deathdate: 1779
+    gutenberg_agent_id: '2644'
+    url: http://www.gutenberg.org/2009/agents/2644
+    wikipedia: http://en.wikipedia.org/wiki/James_Cook
+  editor:
+    agent_name: Wharton, W. J. L. (William James Lloyd)
+    alias: Wharton, William James Lloyd, Sir
+    birthdate: 1843
+    deathdate: 1905
+    gutenberg_agent_id: '40850'
+    url: http://www.gutenberg.org/2009/agents/40850
+description: ''
+gutenberg_bookshelf:
+- New Zealand
+- Australia
+- Travel
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8106'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages around the world -- Early works to 1800'
+- !lcc 'G'
+- !lcsh 'Oceania -- Discovery and exploration -- Early works to 1800'
+- GITenberg
+title: "Captain Cook's Journal During His First Voyage Round the World\r\nMade in\
+  \ H. M. Bark \"Endeavour\", 1768-71"
+url: http://www.gutenberg.org/ebooks/8106
