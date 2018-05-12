@@ -1,5 +1,8 @@
 _repo: Captain-Cook-s-Journal-During-His-First-Voyage-Round-the-World--13-Made-in-H.-M.-Bark--Endeavo__8106
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cook, James
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '40850'
     url: http://www.gutenberg.org/2009/agents/40850
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8106#Captain-Cook-s-Journal-During-His-First-Voyage-Round-the-World--13-Made-in-H.-M.-Bark--Endeavo_
 gutenberg_bookshelf:
 - New Zealand
 - Australia
